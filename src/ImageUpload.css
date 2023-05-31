@@ -1,0 +1,15 @@
+.imageUpload{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(243, 241, 241);
+    box-shadow:1px 1px 5px grey;
+}
+.imageUpload__progress{
+    width: 100%;
+    height: 2rem;
+}
